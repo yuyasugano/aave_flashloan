@@ -30,4 +30,4 @@ flashloan.flashloan("0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE", web3.utils.toW
  
 ## License
 
-This library is licensed under the Apache 2.0 License.
+This code is licensed under the MIT License.
